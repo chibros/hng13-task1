@@ -1,0 +1,5 @@
+==========================================
+Automated deployment script - Wed, Oct 22, 2025  8:25:55 PM
+Logs: ./logs/deploy_20251022_202555.log
+==========================================
+./deploy.sh: line 287: unexpected EOF while looking for matching `''

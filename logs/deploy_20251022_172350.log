@@ -1,0 +1,6 @@
+==========================================
+Automated deployment script - Wed, Oct 22, 2025  5:23:50 PM
+Logs: ./logs/deploy_20251022_172350.log
+==========================================
+./deploy.sh: line 224: warning: here-document at line 40 delimited by end-of-file (wanted `EOF')
+./deploy.sh: line 225: syntax error: unexpected end of file
