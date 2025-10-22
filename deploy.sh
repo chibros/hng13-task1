@@ -125,7 +125,7 @@ ssh_check() {
 
 remote_prepare() { 
   echo "[INFO] Preparing remote host..." 
-  read -r -d '' PREP <<'REMOTE' set -e
+  read -r -d '' PREP <<REMOTE set -e
 
 # update
 
